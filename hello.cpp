@@ -6,5 +6,7 @@ int main(){
     a++;
     a++;
     a++;
+    a++;
+    a--;
     cout<<"Hello"<<endl;
 }
